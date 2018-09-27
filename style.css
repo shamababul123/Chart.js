@@ -1,0 +1,37 @@
+p {
+	font-size: 2em;
+	color: brown;
+	 margin: 0.5em;
+    text-shadow: 0 0 50px chocolate;
+	font-family: 'Chicle', cursive;
+	text-align: center;
+	padding-left: 3em;
+	padding-right: 3em;
+}
+
+p:hover {
+	color: gold;
+    text-shadow: 0 0 50px black;
+}
+ 	
+.inputs-container {
+	display: flex;
+	margin: 1em;
+}
+
+input {
+	padding: 0.5em;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+button {
+	margin-left: 1em;
+}
+
+#myChart {
+	display: block;
+	width: 100px;
+	height: 100px;
+}
