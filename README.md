@@ -1,7 +1,7 @@
 CHART.JS
 --------
 
-You can see website here: https://shamababul123.github.io/chart.js/
+You can see website here:  https://shamababul123.github.io/chart.js/
 
 ## WORKSHOP
 
