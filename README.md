@@ -13,6 +13,6 @@ To make this application, we're going to need to cover the following topics:
   * CSS - The style or look of the information.
   * Javacsript - The programming language needed to add the necessary behavior (or interaction) to the webpage.
   
-  
+###SCREENSHOOT
   ![chart](https://user-images.githubusercontent.com/38943439/46163711-58341200-c2a5-11e8-9372-ce3b29c235e6.png)
 
